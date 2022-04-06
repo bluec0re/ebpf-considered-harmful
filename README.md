@@ -31,3 +31,8 @@ was developed with rust 1.59.0 stable and run on box `fedora/35-cloud-base` with
 (run `./poc.sh` to do it yourself)
 
 [![asciicast](https://asciinema.org/a/H9JO6ZLkdiZft5uG2e5V2zIf4.svg)](https://asciinema.org/a/H9JO6ZLkdiZft5uG2e5V2zIf4)
+
+
+## Credits
+
+The idea for this primarily came up during some discussions with [felixwilhelm](https://github.com/felixwilhelm), I just happend to find the time to actually work on it.
